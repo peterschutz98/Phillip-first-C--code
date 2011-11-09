@@ -1,0 +1,24 @@
+C:\Users\Phillip\AppData\Local\Temporary Projects\Contacts\bin\Debug\Contacts.exe
+C:\Users\Phillip\AppData\Local\Temporary Projects\Contacts\bin\Debug\Contacts.pdb
+C:\Users\Phillip\AppData\Local\Temporary Projects\Contacts\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Phillip\AppData\Local\Temporary Projects\Contacts\obj\x86\Debug\Contacts.Form1.resources
+C:\Users\Phillip\AppData\Local\Temporary Projects\Contacts\obj\x86\Debug\Contacts.Properties.Resources.resources
+C:\Users\Phillip\AppData\Local\Temporary Projects\Contacts\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Phillip\AppData\Local\Temporary Projects\Contacts\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Phillip\AppData\Local\Temporary Projects\Contacts\obj\x86\Debug\Contacts.exe
+C:\Users\Phillip\AppData\Local\Temporary Projects\Contacts\obj\x86\Debug\Contacts.pdb
+C:\Users\Phillip\documents\visual studio 2010\Projects\Contacts\Contacts\obj\x86\Debug\Contacts.exe
+C:\Users\Phillip\documents\visual studio 2010\Projects\Contacts\Contacts\obj\x86\Debug\Contacts.pdb
+C:\Users\Phillip\documents\visual studio 2010\Projects\Contacts\Contacts\bin\Debug\Contacts.exe
+C:\Users\Phillip\documents\visual studio 2010\Projects\Contacts\Contacts\bin\Debug\Contacts.pdb
+C:\Users\Phillip\documents\visual studio 2010\Projects\Contacts\Contacts\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Phillip\documents\visual studio 2010\Projects\Contacts\Contacts\obj\x86\Debug\Contacts.Form1.resources
+C:\Users\Phillip\documents\visual studio 2010\Projects\Contacts\Contacts\obj\x86\Debug\Contacts.Properties.Resources.resources
+C:\Users\Phillip\documents\visual studio 2010\Projects\Contacts\Contacts\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Phillip\documents\visual studio 2010\Projects\Contacts\Contacts\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Phillip\documents\visual studio 2010\Projects\Contacts\Contacts\bin\Debug\ContactDB.sdf
+C:\Users\Phillip\documents\visual studio 2010\Projects\Contacts\Contacts\bin\Debug\Contacts.exe.config
+C:\Users\Phillip\Documents\Visual Studio 2010\Projects\Contacts\Contacts\bin\Debug\Contacts.exe.manifest
+C:\Users\Phillip\Documents\Visual Studio 2010\Projects\Contacts\Contacts\bin\Debug\Contacts.application
+C:\Users\Phillip\Documents\Visual Studio 2010\Projects\Contacts\Contacts\obj\x86\Debug\Contacts.exe.manifest
+C:\Users\Phillip\Documents\Visual Studio 2010\Projects\Contacts\Contacts\obj\x86\Debug\Contacts.application
